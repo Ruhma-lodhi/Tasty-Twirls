@@ -1,11 +1,18 @@
 body {
   font-family: Arial, sans-serif;
   background-color: rgb(251, 246, 240) ;
+
+}
+
+@font-face {
+  font-family: myfont ;
+  src: url(../assets/charlotte/charlotte.ttf);
 }
 
 .pan{
-  font-style:italic;
-  font-size: x-large ;
+
+  font-family: myfont ;
+  font-size: 28px ;
   margin-left: 150px;
   display: flex ;
   margin-right: 150px;
