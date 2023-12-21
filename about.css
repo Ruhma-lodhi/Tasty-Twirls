@@ -9,7 +9,7 @@ h1 {
   margin-left: 50px;
   margin-right: 50px;
   display: flex;
-  padding: 50px;
+  padding: 30px;
   justify-content: space-around;
 }
 .about-card {
@@ -17,7 +17,7 @@ h1 {
   border: 0;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
     rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-  height: 650px;
+  height: 600px;
   width: 350px;
   display: flex;
   flex-direction: column;
@@ -45,4 +45,9 @@ h1 {
 .roll-no {
   font-size: 14px;
   font-weight: bold;
+}
+
+.us{
+  margin-top: 15px ;
+
 }
