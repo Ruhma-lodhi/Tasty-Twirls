@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.recipe-container {
+  display: flex;
+  justify-content: center;
+  margin: 50px 0;
+}
+.img-container {
+  width: 50%;
+}
+.recipe-img {
+  object-fit: contain;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+}
+.ingredients {
+  font-size: 18px;
+}
+.method {
+  font-size: 18px;
+  margin: 30px;
+}
