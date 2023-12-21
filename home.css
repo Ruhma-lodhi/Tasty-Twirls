@@ -10,7 +10,7 @@ body {
 }
 
 .pan{
-
+  color: rgb(72, 15, 15) ;
   font-family: myfont ;
   font-size: 28px ;
   margin-left: 150px;
@@ -20,6 +20,7 @@ body {
 }
 
 .about {
+  color: rgb(72, 15, 15) ;
   line-height: 2;
   width: 50%;
   margin-left: auto;
